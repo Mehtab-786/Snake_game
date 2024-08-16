@@ -12,35 +12,6 @@ This is a simple implementation of the classic Snake Game using the Python Turtl
 - Score tracking and display.
 - Game over message upon collision.
 
-## Getting Started
-
-### Prerequisites
-
-- Python 3.x
-- Turtle graphics library (usually included in Python standard library)
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/snake-game.git
-   ```
-
-2. Change into the project directory:
-
-   ```bash
-   cd snake-game
-   ```
-
-3. Run the game:
-
-   ```bash
-   python main.py
-   ```
-
-4. Use the arrow keys to control the snake and enjoy the game!
-
 ## Code Structure
 
 The project is organized into four main files:
@@ -59,7 +30,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 - Inspired by the classic Snake Game.
 - Built using Python and Turtle graphics.
-
----
-
-Feel free to customize the README to better fit your project and provide more details if needed.
